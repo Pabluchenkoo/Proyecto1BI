@@ -7,3 +7,5 @@ GrupoG17
 * Cristian David Caro 202011710
 
 Enlace despliegue: http://34.125.133.69/
+
+Revisar la wiki para el acceso completo a toda la documentación y repositorios de apoyo
